@@ -4,7 +4,7 @@ Full Stack Developer
 - 🔭 I’m currently working on ... aigora website
 - 🌱 I’m currently learning ... Algorithms and Functions
 - 👯 I’m looking to collaborate on ... any JavaScript or Python 
-- 📫 How to reach me: edgarm@gbooks18.com, "https://www.linkedin.com/in/edgar-mengana-aa1365279/" 
+- 📫 How to reach me: edgarm@gbooks18.com, https://www.linkedin.com/in/edgar-mengana-aa1365279
 - ⚡ Fun fact: I enjoy (non-programming) language learning also 
 
 ### : Languages: 
