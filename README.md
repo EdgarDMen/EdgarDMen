@@ -13,4 +13,4 @@
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=yEdgarDMen&style=flat-square&color=blue" alt="counter"/>
+<img src="https://komarev.com/ghpvc/?username=yEdgarDMen&style=flat-square&color=black" alt="counter"/>
