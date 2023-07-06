@@ -5,7 +5,7 @@ Full Stack Developer
 - 🌱 I’m currently learning ... Algorithms and Functions
 - 👯 I’m looking to collaborate on ... any JavaScript or Python 
 - 📫 How to reach me: edgarm@gbooks18.com
-- ⚡ Fun fact: I enjoy (non-programming) language learning also 
+- ⚡ Fun fact: the Earth is probably a globe
 
 ### : Languages: 
 <div>                                                    
