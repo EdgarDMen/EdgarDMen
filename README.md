@@ -3,9 +3,8 @@
 Full Stack Developer
 - 🔭 I’m currently working on ... aigora website
 - 🌱 I’m currently learning ... Algorithms and Functions
-- 👯 I’m looking to collaborate on ... any JavaScript or Python 
+- 👯 I’m looking to collaborate on ... any JavaScript or Python project
 - 📫 How to reach me: edgarm@gbooks18.com
-- ⚡ Fun fact: the Earth is probably a globe
 
 ### : Languages: 
 <div>                                                    
